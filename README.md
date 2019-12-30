@@ -11,7 +11,7 @@ docker, pytorch
 ### clone this project
 
 ```
-$ git clone
+$ git clone https://github.com/RuiHirano/pytorch-docker-mnist-sample.git
 ```
 
 ### build image
